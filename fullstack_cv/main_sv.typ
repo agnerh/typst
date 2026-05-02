@@ -10,7 +10,9 @@
     = Henrik Agner
     #components.bold[Lösningsarkitekt / Tech lead / Senior fullstack-utvecklare]
 
-    Henrik är en mycket erfaren Lösningsarkitekt, Tech Lead och Senior Fullstack-utvecklare med en bred erfarenhet av att leda tekniska team och driva framgångsrika projekt. Med över 12+ års erfarenhet och en passion för modern teknik och plattformar excellerar Henrik i att designa och implementera innovativa lösningar som säkerställer hög prestanda, skalbarhet och effektivitet. Han är en naturlig ledare som trivs i dynamiska miljöer och hans expertis sträcker sig över både molnplattformar, fullstack-utveckling och lösningsarkitektur. 
+    Henrik är en mycket erfaren Lösningsarkitekt, Tech Lead och Senior Fullstack-utvecklare med en bred erfarenhet av att leda tekniska team och driva framgångsrika projekt. 
+
+    Med över 12 års erfarenhet och en passion för modern teknik och plattformar har Henrik stor erfarenhet av att designa och implementera innovativa lösningar som säkerställer hög prestanda, skalbarhet och effektivitet. Han är en naturlig ledare som trivs i dynamiska miljöer och hans expertis sträcker sig över både molnplattformar, fullstack-utveckling och lösningsarkitektur. 
 
     Henrik ser sig själv som väldigt bekväm med både webbutveckling, systemutveckling, arkitektur och teknisk leding inom både Front End och Back End. 
   ])
@@ -24,28 +26,30 @@
   "SEB Pension och Försäkring",
   "Senior Fullstack utvecklare",
   [
-    Henrik arbetar som Senior backendutvecklare i ett .NET-team hos SEB P&F som
-    befinner sig i en transformationsresa för att framtidssäkra sina
-    kärnförsäkringslösningar.
-    I uppdraget bidrar Henrik med nyutveckling av lösningar utanför kärnsystemet Lumera för att öka affärsflexibilitet och möjliggöra en smidig integration. Det första fokusområdet är utvecklingen av ett system för hantering av fullmakter.
+    Henrik arbetar som Senior fullstackutvecklare i ett .NET-team hos SEB P&F som befinner sig i en transformationsresa för att framtidssäkra sina kärnförsäkringslösningar.
 
-    #components.tag("Docker") #components.tag(".Net Core") #components.tag("Banking and Finance") #components.tag("Kubernetes")
-    #components.tag("Github Actions") #components.tag("Openshift") #components.tag("SAFE") #components.tag("Lumera Core")
+    Uppdraget innebär att jobba med försäkringslösningar och försäkringsförmedling samt integration mot det nya kärnsystemet Lumera. Det första fokusområdet är utvecklingen av ett system för hantering av fullmakter samt system för försäkringsförmedling.
+    
+    Systemet driftas i openshift med kubernetes med Kustomize för "infrastruktur som kod" hantering. 
+
+    #components.tag("Docker") #components.tag(".Net Core") #components.tag("Angular") #components.tag("Banking and Finance") #components.tag("Kubernetes")
+    #components.tag("Github Actions") #components.tag("Openshift") #components.tag("SAFE") #components.tag("Lumera Core") #components.tag("Gitops") #components.tag("IaC")
   ]
 )
 
 #components.position(
   "jan 2025",
-  "pågående",
+  "dec 2025",
   "Storstockholms Brandförsvar",
-  "Senior Fullstackutvecklare",
+  "Systemförvaltare",
   [
-    Henrik arbetar som senior systemutvecklare hos Storstockholm Brandförsvar, vilket inkluderar t.ex Stockholms Län, Gotlands Län, Mälardalen, Södermanlands Län och Uppsala Län med flera. Systemet är utvecklat för att stödja Brandledarna inom Storstockholms Brandförsvar i deras arbete med att resurssäkra och planera personal samt inventarier, såsom fordon, båtar, brandbilar och hundar med mera. Systemet är byggt i .NET med Blazor
-    och driftas i Microsoft Azure.
+    Henrik arbetade som senior systemutvecklare hos Storstockholm Brandförsvar, vilket inkluderade t.ex Stockholms Län, Gotlands Län, Mälardalen, Södermanlands Län och Uppsala Län med flera. Systemet utvecklades för att stödja Brandledarna inom Storstockholms Brandförsvar i deras arbete med att resurssäkra och planera personal samt inventarier, såsom fordon, båtar, brandbilar och hundar med mera. Systemet är byggt i .NET med Blazor och driftas i Microsoft Azure.
 
-    Henrik ansvarar för att förvalta systemet och säkerställa att det är stabilt, uppdaterat och anpassat efter verksamhetens behov. Hans arbete innefattar både teknisk förvaltning och vidareutveckling, inklusive optimering av systemets funktionalitet, prestanda och säkerhet. Genom att kontinuerligt förbättra och anpassa systemet bidrar han till en effektivare resursplanering och en bättre operativ beredskap inom Storstockholms Brandförsvar.
+    Henrik ansvarade för att förvalta systemet och säkerställa att det är stabilt, uppdaterat och anpassat efter verksamhetens behov. Hans arbete innefattade både teknisk förvaltning och vidareutveckling, inklusive optimering av systemets funktionalitet, prestanda och säkerhet.
 
-    #components.tag("Offentlig sektor") #components.tag("HTML") #components.tag("CSS") #components.tag("Microsoft Azure") #components.tag("API") #components.tag(".NET Core") #components.tag("Blazor") #components.tag("Microsoft SQL")
+    Systemet driftades i kubernetes med helm och ArgoCD för "infrastruktur som kod" hantering.
+
+    #components.tag("Offentlig sektor") #components.tag("HTML") #components.tag("CSS") #components.tag("Microsoft Azure") #components.tag("API") #components.tag(".NET Core") #components.tag("Blazor") #components.tag("Microsoft SQL") #components.tag("IaC")
   ]
 )
 
@@ -55,14 +59,11 @@
   "Questback Sweden AB",
   "Lösningsarkitekt / .NET utvecklare",
   [
-    Henrik arbetade som lösningsarkitekt och utvecklare och hans uppdrag är att utreda framtida utvecklingsbehov samt att ge vägledning och råd för att modernisera arkitekturen i bolagets kärnprodukt. Questback är en ledande leverantör av plattformar för feedback och undersökningar som hjälper företag att samla in och analysera data för att driva förbättringar och öka engagemanget. Questbacks lösning används av företag världen över för att få insikter om kund- och medarbetarupplevelser. 
+    Henrik arbetade som lösningsarkitekt och utvecklare på Questback med ansvar för att modernisera det externa API som dagligen används av kunder och partners för integration mot plattformen.
 
-    I sin roll hos Questback ansvarar Henrik för att designa och utveckla säkra, skalbara integrationstjänster och API:er som möjliggör smidiga integrationer med externa system. Han har expertis i att bygga RESTful API i JSON-format och använder C\# och .NET Core för att utveckla robusta integrationer. Med ett starkt fokus på säkerhet och prestanda implementerar Henrik lösningar som skyddas av moderna autentiserings- och auktoriseringsmetoder som t.ex OAuth2 och JWT med hjälp av Zitadel IdP.
+    Ett stort fokus i uppdraget låg på att implementera säkra och skalbara integrationstjänster, med höga krav på prestanda och tillgänglighet. API:erna skyddades med OAuth2 och JWT och integrerades med Zitadel som Identity Provider.
 
-    Henrik dokumenterar API:er detaljerat enligt OpenAPI-specifikationer och använder verktyg som Swagger/Scalar vilket underlättar för externa partners att integrera Questbacks lösningar. Han bygger även automatiserade tester för att säkerställa hög prestanda och pålitlighet i API:er.
-
-    Med hans erfarenhet av distribuerade system, meddelandeköer samt SaaS- och
-    mikrotjänstarkitektur så bidrar Henrik till att skapa flexibla och skalbara lösningar som kan hantera stora mängder data och komplexa integrationer, vilket stödjer Questbacks affärsmål och förbättrar deras plattform för framtida tillväxt.
+    Henrik ansvarade för att ta fram och förvalta OpenAPI-specifikationer samt publicera dokumentation via Swagger och Scalar för att förenkla integration för externa parter. Han införde även automatiserade tester och valideringsflöden för att säkerställa kvalitet och bakåtkompatibilitet.
 
     #components.tag("Integrationer") #components.tag("Agile Methods") #components.tag("Säkerhet") #components.tag("ASP.NET") #components.tag("Oracle") #components.tag("SQL") #components.tag("SaaS") #components.tag("Git") #components.tag("JSON") #components.tag("C#") #components.tag("Cloud") #components.tag("Octopus Deploy") #components.tag("Continuous Integration") #components.tag("Mikrotjänstarkitektur") #components.tag("Redis") #components.tag("RabbitMQ") #components.tag("Unit testing") #components.tag("Docker") #components.tag("IIS web server") #components.tag("DevOps") #components.tag("Lösningsarkitektur") #components.tag("JIRA") #components.tag("Distribuerade system") #components.tag("REST") #components.tag("API") #components.tag("Swagger") #components.tag("Redis Cache") #components.tag("JSON REST APIs") #components.tag("API-utveckling") #components.tag("JWT") #components.tag("Grafana") #components.tag("Kubernetes") #components.tag("Oauth2") #components.tag("xUnit") #components.tag("YAML") #components.tag(".NET Core") #components.tag("Prometheus") #components.tag("API-dokumentation") #components.tag("OpenAPI") #components.tag("Atlassian Confluence") #components.tag(".NET") #components.tag("GitHub Actions") #components.tag("Scrum") #components.tag("Open Telemetry") #components.tag("Oracle Cloud Infrastructure (OCI)") #components.tag("API-design") #components.tag("Integrationstjänster") #components.tag("Skalbarhet") #components.tag("Meddelandeköer") #components.tag("CI/CD Infrastructure") #components.tag("Zitadel IdP") #components.tag("Scalar API Documentation")
   ]
@@ -122,7 +123,7 @@
     - Införde kodgranskning och kontinuerlig integration för att förbättra kodkvaliteten.
     - Design, utveckling och anpassning av front end och back end.
 
-    #components.tag("JavaScript") #components.tag("Project Management") #components.tag("ASP.NET") #components.tag("Kanban") #components.tag("Git") #components.tag("C#") #components.tag("Microsoft SQL Server") #components.tag("TeamCity") #components.tag("Entity Framework") #components.tag("Amazon Web Services") #components.tag("Continuous Integration") #components.tag("AngularJS") #components.tag("Node.js") #components.tag("Redis") #components.tag("RabbitMQ") #components.tag("Integrationsarkitektur") #components.tag("Docker") #components.tag("Git-Flow") #components.tag("Amazon S3") #components.tag("Express.js") #components.tag("Code review") #components.tag("Leadership") #components.tag("Recruitment") #components.tag("Dependency Injection") #components.tag("TypeScript") #components.tag("IT Arkitektur") #components.tag("Angular") #components.tag("WCAG") #components.tag("AWS Lambda") #components.tag("PostgreSQL") #components.tag("React.js") #components.tag("Material UI") #components.tag("Docker") #components.tag("Continous Deployment") #components.tag("Python") #components.tag("Django")
+    #components.tag("JavaScript") #components.tag("Project Management") #components.tag("ASP.NET") #components.tag("Kanban") #components.tag("Git") #components.tag("C#") #components.tag("Microsoft SQL Server") #components.tag("TeamCity") #components.tag("Entity Framework") #components.tag("Amazon Web Services") #components.tag("Continuous Integration") #components.tag("AngularJS") #components.tag("Node.js") #components.tag("Redis") #components.tag("RabbitMQ") #components.tag("Integrationsarkitektur") #components.tag("Docker") #components.tag("Git-Flow") #components.tag("Amazon S3") #components.tag("Express.js") #components.tag("Code review") #components.tag("Leadership") #components.tag("Recruitment") #components.tag("Dependency Injection") #components.tag("TypeScript") #components.tag("IT Arkitektur") #components.tag("Angular") #components.tag("WCAG") #components.tag("AWS Lambda") #components.tag("PostgreSQL") #components.tag("React.js") #components.tag("Material UI") #components.tag("Docker") #components.tag("Continous Deployment")
   ]
 )
 
