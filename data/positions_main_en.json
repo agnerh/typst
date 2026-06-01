@@ -1,0 +1,90 @@
+[
+    {
+        "from": "apr. 2025",
+        "to": "jun. 2026",
+        "company": "SEB Pension och Försäkring",
+        "title": "Senior Fullstack developer",
+        "description": "Henrik works as a senior fullstack developer in a .NET / Angular team at SEB P&F, which is undergoing a transformation to future-proof its core insurance solutions. In this role, he contributes to the development of new solutions around the core Lumera system to increase business flexibility and enable smooth integrations. \nThe initial focus is on developing a system for managing powers of attorney.",
+        "tags": [ "AI", "Copilot", "Docker", ".Net Core", "Banking and Finance", "Angular", "Kubernetes", "Github Actions", "Openshift", "SAFE", "Lumera Core", "Gitops", "IaC" ]
+    },
+    {
+        "from": "jan. 2025",
+        "to": "dec. 2025",
+        "company": "Storstockholms Brandförsvar",
+        "title": "System manager / Senior Fullstack developer",
+        "description": "Henrik worked as a senior software developer at Storstockholm Brandförsvar, covering regions such as Stockholm County, Gotland, Mälardalen, Södermanland, and Uppsala. The system is designed to support fire chiefs in resource planning and managing personnel and equipment, including vehicles, boats, fire trucks, and dogs. It is built in .NET with Blazor and hosted on Microsoft Azure.\n\nHenrik is responsible for maintaining the system, ensuring it remains stable, updated, and aligned with operational needs. His work includes both technical maintenance and further development, optimizing functionality, performance, and security. By continuously improving and adapting the system, he contributes to more efficient resource planning and enhanced operational readiness for Storstockholm Brandförsvar.",
+        "tags": [ "Microsoft Azure", "Public sector", "HTML", "CSS", "API", ".NET Core", "Blazor", "Microsoft SQL" ]
+    },
+    {
+        "from": "oct. 2024",
+        "to": "feb. 2025",
+        "company": "Questback Sweden AB",
+        "title": "Solution Architect Public API",
+        "description": "Henrik works as a solution architect and developer, tasked with assessing future development needs and providing guidance to modernize the architecture of the companys core product. Questback is a leading provider of feedback and survey platforms that help businesses collect and analyze data to drive improvements and increase engagement. Questbacks solutions are used worldwide to gain insights into customer and employee experiences.\n\nIn his role at Questback, Henrik is responsible for designing and developing secure, scalable integration services and APIs that enable users to seemlessly interact with the Questback products. He specializes in building RESTful JSON APIs using C# and .NET Core, focusing on security and performance by implementing modern authentication and authorization methods such as OAuth2 and JWT via Zitadel IdP.\nHenrik documents APIs in detail following OpenAPI specifications, using tools like Swagger and Scalar, making it easier for external partners to integrate Questback solutions. He also builds automated tests to ensure high performance and reliability of the APIs.",
+        "tags": [ "Integrations", "Agile Methods", "Security", "ASP.NET", "Oracle", "SQL", "SaaS", "Git", "JSON", "C#", "Cloud", "Octopus Deploy", "Continuous Integration", "Microservices", "Redis", "RabbitMQ", "Unit testing", "Docker", "DevOps", "Solution Architechture", "JIRA", "Distributed systems", "REST", "API", "Swagger", "Redis Cache", "JSON REST APIs", "JWT", "Grafana", "Kubernetes", "Oauth2", "xUnit", "YAML", ".NET Core", "Prometheus", "API documentation", "OpenAPI", "Atlassian Confluence", ".NET", "GitHub Actions", "Scrum", "Open Telemetry", "Oracle Cloud Infrastructure (OCI)", "API design", "Scaling", "Message queues", "CI/CD Infrastructure", "Zitadel IdP", "Scalar API Documentation" ]
+    },
+    {
+        "from": "mar. 2020",
+        "to": "oct. 2024",
+        "company": "Keystone Education Group",
+        "title": "Tech Lead",
+        "description": "As Tech Lead, Henrik played a key role in supporting multiple technical platforms within the companys portfolio. He was responsible for leading development teams, ensuring high code quality, and driving architecture and integration projects. The work was evenly split between frontend and backend development.\n\nFrontend:\nHTML, CSS, SASS, JavaScript, TypeScript, React.js, Tailwind CSS, ASP.NET, Next.js, Headless CMS, Sanity CMS, Microfrontend Architecture, Firebase Cloud Firestore, JestJS, Vercel, Git, GitHub Actions\nBackend:\nC#, .NET Core, PHP, Java, Python, Spring Boot, Django, FastAPI, Node.js, REST, GraphQL, RabbitMQ, OAuth, SAML, IAM, Entity Framework\n\nCloud:\nAWS, GCP, Vercel\n\nResponsibilities:\n- Led development teams to deliver high-quality solutions on time\n- Defined architectural principles and implemented design patterns for scalable systems\n- Conducted technical discussions with stakeholders and optimized system performance\n- Integrated with external systems such as CRM and billing platforms\n- Recruited and mentored new developers, managing their onboarding\n- Collaborated closely with product management and the leadership team\n- Designed, developed, and customized both backend and frontend components",
+        "tags": [ "Google Cloud", "AWS", "OVH cloud", "JavaScript", "Mentor", "Linux", "Project Management", "Agile Methods", "ASP.NET", "PHP", "Java", "Kanban", "CSS", "SaaS", "Git", "REST", "C#", "Microsoft SQL Server", "TeamCity", "Entity Framework", "Amazon Web Services", "Octopus Deploy", "NUnit", "Node.js", "SASS", "Moq","Django", "RabbitMQ", "Unit testing", "Integrationsarkitektur", "Domain Driven Design", "Docker", "DevOps", "Microservices", "Express.js", "Code review", "Applikationsarkitektur", "Leadership", "Recruitment", "Windows Communication Foundation", "OAuth", "System Design", "TypeScript", "API", "Spring Boot", "Elasticsearch", "ClickView", "JIRA", "Assembla", "REST API", "NoSQL", "IAM", "Stakeholder Management", "SOLID", "IT Arkitektur", "Amazon DynamoDB", "Infrastructure as Code", "Cloudflare", "SAML", "WCAG", "Service oriented arkitektur", "Kubernetes", "GraphQL", "PostgreSQL", "HubSpot", "Python", "Asana", "Autofixture", "Zapier", "React.js", "AWS ECS", "Material UI", "Tailwind CSS", "Headless CMS", "Technical Leadership", "Klarna API", "Vue.js", "Eventbaserad arkitektur", "NextJS", "Firebase Cloud Firestore", "Miro", "GitHub Actions", "Vercel", "Python", "FastAPI", "JestJS", "ClickUp", "Scrum", "MaterialUI", "Sanity CMS", "Google BigQuery", "Project Design", "Microfrontend", "Architecture", "Mentoring", "Carbon Design System" ]
+    },
+    {
+        "from": "sep. 2018",
+        "to": "mar. 2020",
+        "company": "Keystone Education Group",
+        "title": "Lead Developer",
+        "description": "Henrik advanced to the role of Lead Developer, responsible for the development of the Student Recruitment System (SRS), a CRM platform for universities and colleges. He led the design and implementation of features across both frontend and backend, managed integrations, and supported junior developers through mentorship and code reviews. The work was split roughly 50/50 between frontend and backend development.\n\nFrontend:\nJavaScript, TypeScript, Angular, AngularJS, Vue, React\n\nBackend:\nASP.NET, C# / .NET Core, Node.js, Entity Framework, Microsoft SQL Server, PostgreSQL, Redis, RabbitMQ, SQS, SNS, AWS Lambda, Docker containers, Dependency Injection, Amazon S3, AWS Batch, SES",
+        "tags": [ "JavaScript", "Project Management", "ASP.NET", "Kanban", "Git", "C#", "Microsoft SQL Server", "TeamCity", "Entity Framework", "Amazon Web Services", "Continuous Integration", "AngularJS", "Node.js", "Redis", "RabbitMQ", "Integration architechture", "Docker", "Git-Flow", "Amazon S3", "Express.js", "Code review", "Leadership", "Recruitment", "Dependency Injection", "TypeScript", "IT Arkitektur", "Angular", "WCAG", "AWS Lambda", "PostgreSQL", "React.js", "Material UI", "Docker", "Continous Deployment" ]
+    },
+    {
+        "from": "nov. 2015",
+        "to": "sep. 2018",
+        "company": "Keystone Education Group",
+        "title": "Fullstack Developer",
+        "description": "Henrik worked as a full-stack .NET developer, primarily responsible for developing and maintaining the SRS platform. In this role, he handled both frontend and backend development, using technologies such as C# / .NET, ASP.NET, and AngularJS to build a scalable and user-friendly application.\nThe platform was running on AWS with a PostgreSQL database. Working in an agile environment, with a CI/CD workflow.",
+        "tags": [ "JavaScript", "ASP.NET", "SaaS", "Git", "C#", "AWS", "Continuous Integration", "AngularJS", "Redis", "TypeScript", "WCAG", "Angular", "PostgreSQL" ]
+    },
+    {
+        "from": "jan. 2014",
+        "to": "nov. 2015",
+        "company": "IDSS AB",
+        "title": "Fullstack Developer",
+        "description": "The iServ platform from IDSS collects and processes data, primarily from telecom networks, to transform it into relevant information for business users.\n\nHenrik started by developing backend processes in C++ and later moved into full-stack development, focusing on C# / .NET and JavaScript. He built a scalable web application that allowed users to visualize data through various tools and dashboards. He also developed an Android app for monitoring and managing alerts related to IDSS services.\n\nThe work involved both front-end and back-end development, roughly split 50/50.",
+        "tags": [ "WPF", "Databaser", "Oracle", "Data Warehouse,", "ETL", "JavaScript", "Linux", ".NET MVC/Webforms", "Business Intelligence", "Subversion", "Java", "C#", "Android", "C", "Big Data", "SVN Tortoise", "WinForms", "DevExpress", "Oracle", ".NET", "Big Data Management", "C++", "XML", "Fault & Fraud Detection" ]
+    },
+    {
+        "from": "2013",
+        "to": "2014",
+        "company": "Tieto AB",
+        "title": "Technical Specialist Infrastrcuture",
+        "description": "Henrik served as a technical infrastructure specialist at Tieto. In this role, he managed client installations for Tietos many customers and addressed issues arising in their environments. His responsibilities included SCCM configuration, Active Directory (AD) and DNS management, and troubleshooting application packages. He also built automation solutions using C# / .NET and C++.",
+        "tags": [ "C#", "C++", "Active Directory", "Infrastructure", "SCCM", "MSI", "JIRA", "DNS", "Networking" ]
+    },
+    {
+        "from": "2010",
+        "to": "2013",
+        "company": "Ericsson AB",
+        "title": "Technical Specialist Infrastruktur & Support",
+        "description": "Acted as a remote support specialist, performing in-depth troubleshooting on client systems for Ericsson. Tasks included resolving individual user issues using tools such as Sysinternals and WinDbg for memory dump analysis. For problems affecting multiple users, he developed custom scripts or small applications, mainly in C# or C++.\n\nHe held a leading role in a project with Intel during 2011 and 2013 to implement Intels vPro technology within Ericssons account, serving as a technical specialist responsible for research, testing, and scripting to deploy the technology in Sweden as a pilot.",
+        "tags": [ "Windbg", "Sysinternals", "Scripting", "C#", "C++", "vPro", "Remote support", "VBA", "ITIL", "Incident management", "Change management", "GPO", "Windows Server" ]
+    },
+    {
+        "from": "2008",
+        "to": "2010",
+        "company": "Ericsson AB",
+        "title": "Service Desk Trainer",
+        "description": "Worked as a Service Desk Trainer for the HP/Ericsson account in Stockholm, responsible for training around 100 - 150 Service Desk staff and keeping everyone updated on changes in Ericssons environment. A large part of the work involved process development and creating or updating training materials for the staff. A key focus area was handling incoming complaints from users or other teams to identify gaps in processes or knowledge areas, thereby continuously improving quality.",
+        "tags": [ "Trainer", "Teaching", "Mentoring", "Process development", "ITIL", "Complaint process", "Quality assurence" ]
+    },
+    {
+        "from": "2007",
+        "to": "2008",
+        "company": "Ericsson AB",
+        "title": "Service Desk agent",
+        "description": "Worked as an HP Service Desk Agent, providing phone and remote support to Ericsson users to resolve issues related to their IT environment.",
+        "tags": [ "Remote support", "Telecom", "Windows" ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "from": "apr. 2025",
+        "to": "jun. 2026",
+        "company": "SEB Pension och Försäkring",
+        "title": "Senior Fullstack utvecklare",
+        "description": "Henrik arbetar som senior fullstackutvecklare i ett .NET-team hos SEB P&F som befinner sig i en transformationsresa för att framtidssäkra sina kärnförsäkringslösningar.\n\nUppdraget innebär att jobba med försäkringslösningar och försäkringsförmedling samt integration mot det nya kärnsystemet Lumera. Det första fokusområdet är utvecklingen av ett system för hantering av fullmakter samt system för försäkringsförmedling.\n\nUtveckling sker i .Net och Angular med enevendrivna integrationsflöden med Kafka. Applikationerna driftas i Kubernetes och Openshift och hanteras via gitops / IAC.",
+        "tags": [ "AI", "Copilot", "Docker", ".Net Core", "Banking and Finance", "Kubernetes", "Github Actions", "Openshift", "SAFE", "Lumera Core", "Gitops", "IaC" ]
+    },
+    {
+        "from": "jan. 2025",
+        "to": "dec. 2025",
+        "company": "Storstockholms Brandförsvar",
+        "title": "Systemförvaltare / Senior Fullstack utvecklare",
+        "description": "Henrik arbetade som systemförvaltare och senior systemutvecklare hos Storstockholm Brandförsvar, vilket inkluderade t.ex Stockholms Län, Gotlands Län, Mälardalen, Södermanlands Län och Uppsala Län med flera. Systemet utvecklades för att stödja Brandledarna inom Storstockholms Brandförsvar i deras arbete med att resurssäkra och planera personal samt inventarier, såsom fordon, båtar, brandbilar och hundar med mera. Systemet är byggt i .NET med Blazor och driftas i Microsoft Azure.\n\nHenrik ansvarade för att förvalta systemet och säkerställa att det är stabilt, uppdaterat och anpassat efter verksamhetens behov. Hans arbete innefattade både teknisk förvaltning och vidareutveckling, inklusive optimering av systemets funktionalitet, prestanda och säkerhet.",
+        "tags": [ "Offentlig sektor", "HTML", "CSS", "Microsoft Azure", "API", ".NET Core", "Blazor", "Microsoft SQL" ]
+    },
+    {
+        "from": "okt. 2024",
+        "to": "feb. 2025",
+        "company": "Questback Sweden AB",
+        "title": "Lösningsarkitekt Publikt API",
+        "description": "Henrik arbetade som lösningsarkitekt och utvecklare på Questback med ansvar för att modernisera det externa API som dagligen används av kunder och partners för integration mot plattformen.\n\nEtt stort fokus i uppdraget låg på att implementera säkra och skalbara integrationstjänster, med höga krav på prestanda och tillgänglighet. API:erna skyddades med OAuth2 och JWT och integrerades med Zitadel som Identity Provider.\n\nHenrik ansvarade för att ta fram och förvalta OpenAPI-specifikationer samt publicera dokumentation via Swagger och Scalar för att förenkla integration för externa parter. Han införde även automatiserade tester och valideringsflöden för att säkerställa kvalitet och bakåtkompatibilitet.",
+        "tags": [ "Integrationer", "Agile Methods", "Säkerhet", "ASP.NET", "Oracle", "SQL", "SaaS", "Git", "JSON", "C#", "Cloud", "Octopus Deploy", "Continuous Integration", "Mikrotjänstarkitektur", "Redis", "RabbitMQ", "Unit testing", "Docker", "DevOps", "Lösningsarkitektur", "JIRA", "Distribuerade system", "REST", "API", "Swagger", "Redis Cache", "JSON REST APIs", "API-utveckling", "JWT", "Grafana", "Kubernetes", "Oauth2", "xUnit", "YAML", ".NET Core", "Prometheus", "API-dokumentation", "OpenAPI", "Atlassian Confluence", ".NET", "GitHub Actions", "Scrum", "Open Telemetry", "Oracle Cloud Infrastructure (OCI)", "API-design", "Integrationstjänster", "Skalbarhet", "Meddelandeköer", "CI/CD Infrastructure", "Zitadel IdP", "Scalar API Documentation" ]
+    },
+    {
+        "from": "mar. 2020",
+        "to": "okt. 2024",
+        "company": "Keystone Education Group",
+        "title": "Tech Lead",
+        "description": "Som Tech Lead hade Henrik som roll att stötta flera tekniska plattformar inom företagets portfölj. Han ansvarade för att leda utvecklingsteam, säkerställa hög kodkvalitet och driva arkitektur- och integrationsprojekt. Arbetet var både Front End och Back End-utveckling, cirka 50/50-fördelning.\n\nFront End:\nNextJS, HTML, CSS, SASS, JavaScript, TypeScript, React.js, Tailwind CSS, Headless CMS, Sanity CMS, Microfrontend arkitektur, Firebase Cloud, JestJS\n\nBack End:\nC#, .NET core, Node.js, Java, Python, Spring Boot, Django, FastAPI, REST, GraphQL, PHP, RabbitMQ, OAuth, SAML, IAM, Entity Framework\n\nCloud:\nAWS, GCP, Vercel, OVH\n\nAnsvarsområden:\n- Ledning av utvecklingsteam för att leverera högkvalitativa lösningar i tid.\n- Definiering av arkitektur och implementering av designmönster för skalbara system.\n- Tekniska diskussioner med intressenter och förbättring av systemets prestanda.\n- Integration med externa system, såsom CRM-verktyg och faktureringssystem.\n- Rekrytering och handledning av nya utvecklare samt ansvar för deras onboarding.\n- Kommunikation och samarbete med produktledning och ledningsgrupp.\n- Design, utveckling och anpassning av Back end och front end",
+        "tags": [ "Databaser", "JavaScript", "Mentor", "Linux", "Projekt Management", "Agile Methods", "ASP.NET", "PHP", "Java", "Kanban", "CSS", "SaaS", "Git", "REST", "C#", "Microsoft SQL Server", "TeamCity", "Amazon EC2", "Entity Framework", "AWS", "Octopus Deploy", "NUnit", "Node.js", "SASS", "Moq","Django", "RabbitMQ", "Unit testing", "Integrationsarkitektur", "Domän Driven Design", "Docker", "DevOps", "Microservices", "Express.js", "Code review", "Applikationsarkitektur", "Ledarskap", "Rekrytering", "WCF", "OAuth", "System Design", "TypeScript", "API", "Spring Boot", "Elasticsearch", "ClickView", "JIRA", "Assembla", "REST API", "NoSQL", "IAM", "Stakeholder Management", "SOLID", "SQS", "IT Arkitektur", "Amazon DynamoDB", "Infrastructure as Code", "Cloudflare", "SAML", "WCAG", "AWS Lambda", "Tjänstebaserad arkitektur", "Kubernetes", "GraphQL", "Google Cloud", "PostgreSQL", "HubSpot", "Python", "Asana", "AWS CloudFront", "OVH cloud", "Autofixture", "Zapier", "React.js", "AWS ECS", "Material UI", "Tailwind CSS", "Headless CMS", "Klarna API", "Vue.js", "Eventbaserad arkitektur", "NextJS", "Firebase Cloud Firestore", "Miro", "GitHub Actions", "AWS CDK", "AWS Batch", "Vercel", "Python", "FastAPI", "JestJS", "ClickUp", "Scrum", "MaterialUI", "AWS SNS/SQS", "Sanity CMS", "Google BigQuery", "iDesign Project Design", "AWS ECS (Fargate,", "Microfrontend", "Architecture", "Mentoring", "Carbon Design System" ]
+    },
+    {
+        "from": "sep. 2018",
+        "to": "mar. 2020",
+        "company": "Keystone Education Group",
+        "title": "Lead Developer",
+        "description": "Henrik avancerade rollen som Lead developer där han ansvarade för utvecklingen av Student Recruitment System (SRS) som är ett CRM-system föruniversitet och högskolor. Han ledde arbetet med att designa och implementera funktioner i både front end och backend samt hantera integrationer och stötta yngre utvecklare i form av mentorskap såväl kodgranskning. Arbetet var både Front End och Back End-utveckling, cirka 50/50-fördelning.\n\nFront End:\n\nJavaScript, TypeScript, Angular, AngularJS\n\nBack End:\nASP.NET, C# .NET Core, Node.js, Entity Framework, Microsoft SQL Server, PostgreSQL, Redis,RabbitMQ, AWS, Docker, Dependency Injection",
+        "tags": [ "JavaScript", "Project Management", "ASP.NET", "Kanban", "Git", "C#", "Microsoft SQL Server", "TeamCity", "Entity Framework", "Amazon Web Services", "Continuous Integration", "AngularJS", "Node.js", "Redis", "RabbitMQ", "Integration architechture", "Docker", "Git-Flow", "Amazon S3", "Express.js", "Code review", "Leadership", "Recruitment", "Dependency Injection", "TypeScript", "IT Arkitektur", "Angular", "WCAG", "AWS Lambda", "PostgreSQL", "React.js", "Material UI", "Docker", "Continous Deployment" ]
+    },
+    {
+        "from": "nov. 2015",
+        "to": "sep. 2018",
+        "company": "Keystone Education Group",
+        "title": "Fullstack utvecklare",
+        "description": "Henrik arbetade som fullstack .NET-utvecklare på företaget där hans huvudsakliga ansvar var att utveckla och underhålla SRS-plattformen. I sin roll arbetade han med både frontend- och backendutveckling, vilket innebar att han använde teknologier som C# / .NET, JavaScript, ASP.NET och AngularJS för att bygga en skalbar och användarvänlig applikation.\n\nHenrik var också ansvarig för att integrera plattformen med AWS, säkerställa en smidig drift av systemet och använda PostgreSQL som databas. Genom att arbeta i en agil miljö bidrog han till kontinuerliga förbättringar och utvecklingen av en strukturerad och effektiv rekryteringsplattform för utbildningssektorn.",
+        "tags": [ "JavaScript", "ASP.NET", "SaaS", "Git", "C#", "AWS", "Continuous Integration", "AngularJS", "Redis", "TypeScript", "WCAG", "Angular", "PostgreSQL" ]
+    },
+    {
+        "from": "jan. 2014",
+        "to": "nov. 2015",
+        "company": "IDSS AB",
+        "title": "Fullstack utvecklare",
+        "description": "iServ-plattformen från IDSS samlar in och bearbetar data, främst från telekomnätverk för att omvandla det till relevant information för företagsanvändare.\n\nHenrik började med att utveckla backend-processer i C++ och övergick sedan till fullstack-utveckling med fokus på C# / .NET och Javascript. Han byggde en skalbar webbapplikation där användare kunde visualisera data via olika verktyg och instrumentpaneler. Han utvecklade även en Android-app för övervakning och larmhantering av IDSS tjänster.\n\nArbetet var både Front End och Back End-utveckling, cirka 50/50-fördelning.",
+        "tags": [ "WPF", "Oracle", "Data Warehouse,", "ETL", "JavaScript", "Linux", ".NET MVC/Webforms", "Business Intelligence", "Subversion", "Java", "C#", "Android", "C", "Big Data", "SVN Tortoise", "WinForms", "DevExpress", "Oracle", ".NET", "Big Data Management", "C++", "XML", "Fault & Fraud Detection" ]
+    },
+    {
+        "from": "2013",
+        "to": "2014",
+        "company": "Tieto AB",
+        "title": "Teknisk Specialist Infrastruktur",
+        "description": "Henrik fungerade som teknisk specialist inom infrastruktur för Tieto. I rollen hanterade han klientinstallationen för Tietos många kunder och tog itu med eventuella problem som uppstod i kundernas miljöer. Hans ansvarsområden inkluderade konfiguration av SCCM, hantering av Active Directory (AD) och DNS, samt felsökning av applikationspaket. Även byggnation av automatisering med hjälp utav C# / .NET och C++.",
+        "tags": [ "C#", "C++", "Active Directory", "Infrastructure", "SCCM", "MSI", "JIRA", "DNS", "Networking" ]
+    },
+    {
+        "from": "2010",
+        "to": "2013",
+        "company": "Ericsson AB",
+        "title": "Teknisk Specialist Infrastruktur & Support",
+        "description": "Agerade fjärrsupportspecialist och utförde djupgående felsökning på klienter för Ericsson. Uppgifterna inkluderade att lösa individuella användarproblem med exempelvis verktyg från Sysinternals eller Windbg för minnesdumpar. För problem med många användare utvecklade han skräddarsydda skript eller små applikationer som främst skapades i C# eller c++.\n\nDär hade han en ledande roll ett projekt tillsammans med Intel under 2011 och 2013 för att implementera Intels vPro-teknik på Ericssons konto, där han hade rollen som teknisk specialist och genomförde efterforskning, testning och skriptning för att implementera tekniken i Sverige som pilot.",
+        "tags": [ "Windbg", "Sysinternals", "Scripting", "C#", "C++", "vPro", "Remote support", "VBA", "ITIL", "Incident management", "Change management", "GPO", "Windows Server" ]
+    },
+    {
+        "from": "2008",
+        "to": "2010",
+        "company": "Ericsson AB",
+        "title": "Service Desk Trainer",
+        "description": "Verksam som Servicedesk Trainer för HP / Ericsson-kontot i Stockholm och ansvarade för träning av runt 100 - 150 Service Desk-personal, samt höll alla uppdaterade om förändringar i Ericssons miljö. Mycket av arbetet bestod i att jobba med processer samt att ta fram eller ändra befintligt utbildningsmaterial för personalen. Ett stort fokusområde var att jobba med inkommande klagomål från användare eller andra team för att identifiera luckor i processer eller kunskapsområden och därigenom kontinuerligt höja kvaliten.",
+        "tags": [ "Trainer", "Teaching", "Mentoring", "Process development", "ITIL", "Complaint process", "Quality assurence" ]
+    },
+    {
+        "from": "2007",
+        "to": "2008",
+        "company": "Ericsson AB",
+        "title": "Service Desk agent",
+        "description": "Arbetade som HP Service Desk Agent och tillhandahöll support via telefon och fjärrstyrning till Ericssons användare för att lösa problem relaterade till deras IT-miljö.",
+        "tags": [ "Remote support", "Telecom", "Windows" ]
+    }
+]

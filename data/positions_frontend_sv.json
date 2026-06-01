@@ -1,0 +1,90 @@
+[
+    {
+        "from": "apr. 2025",
+        "to": "jun. 2026",
+        "company": "SEB Pension och Försäkring",
+        "title": "Senior Fullstack utvecklare",
+        "description": "Henrik arbetar som senior fullstackutvecklare i ett .NET-team hos SEB P&F som befinner sig i en transformationsresa för att framtidssäkra sina kärnförsäkringslösningar.\n\nUppdraget innebär att jobba med försäkringslösningar och försäkringsförmedling samt integration mot det nya kärnsystemet Lumera. Det första fokusområdet är utvecklingen av ett system för hantering av fullmakter samt system för försäkringsförmedling.\n\nUtveckling sker i .net och Angular och driftas i Kubernetes och Openshift.",
+        "tags": [ "AI", "Copilot", "Docker", ".Net Core", "Banking and Finance", "Kubernetes", "Github Actions", "Openshift", "SAFE", "Lumera Core", "Gitops", "IaC" ]
+    },
+    {
+        "from": "jan. 2025",
+        "to": "dec. 2025",
+        "company": "Storstockholms Brandförsvar",
+        "title": "Systemförvaltare / Senior Fullstack utvecklare",
+        "description": "Henrik arbetade som systemförvaltare och senior systemutvecklare hos Storstockholm Brandförsvar, vilket inkluderade t.ex Stockholms Län, Gotlands Län, Mälardalen, Södermanlands Län och Uppsala Län med flera. Systemet utvecklades för att stödja Brandledarna inom Storstockholms Brandförsvar i deras arbete med att resurssäkra och planera personal samt inventarier, såsom fordon, båtar, brandbilar och hundar med mera. Systemet är byggt i .NET med Blazor och driftas i Microsoft Azure.\n\nHenrik ansvarade för att förvalta systemet och säkerställa att det är stabilt, uppdaterat och anpassat efter verksamhetens behov. Hans arbete innefattade både teknisk förvaltning och vidareutveckling, inklusive optimering av systemets funktionalitet, prestanda och säkerhet.",
+        "tags": [ "Offentlig sektor", "HTML", "CSS", "Microsoft Azure", "API", ".NET Core", "Blazor", "Microsoft SQL" ]
+    },
+    {
+        "from": "okt. 2024",
+        "to": "feb. 2025",
+        "company": "Questback Sweden AB",
+        "title": "Lösningsarkitekt Publikt API",
+        "description": "Henrik arbetade som lösningsarkitekt och utvecklare på Questback med ansvar för att modernisera det externa API som dagligen används av kunder och partners för integration mot plattformen.\n\nEtt stort fokus i uppdraget låg på att implementera säkra och skalbara integrationstjänster, med höga krav på prestanda och tillgänglighet. API:erna skyddades med OAuth2 och JWT och integrerades med Zitadel som Identity Provider.\n\nHenrik ansvarade för att ta fram och förvalta OpenAPI-specifikationer samt publicera dokumentation via Swagger och Scalar för att förenkla integration för externa parter. Han införde även automatiserade tester och valideringsflöden för att säkerställa kvalitet och bakåtkompatibilitet.",
+        "tags": [ "Integrationer", "Agile Methods", "Säkerhet", "ASP.NET", "Oracle", "SQL", "SaaS", "Git", "JSON", "C#", "Cloud", "Octopus Deploy", "Continuous Integration", "Mikrotjänstarkitektur", "Redis", "RabbitMQ", "Unit testing", "Docker", "DevOps", "Lösningsarkitektur", "JIRA", "Distribuerade system", "REST", "API", "Swagger", "Redis Cache", "JSON REST APIs", "API-utveckling", "JWT", "Grafana", "Kubernetes", "Oauth2", "xUnit", "YAML", ".NET Core", "Prometheus", "API-dokumentation", "OpenAPI", "Atlassian Confluence", ".NET", "GitHub Actions", "Scrum", "Open Telemetry", "Oracle Cloud Infrastructure (OCI)", "API-design", "Integrationstjänster", "Skalbarhet", "Meddelandeköer", "CI/CD Infrastructure", "Zitadel IdP", "Scalar API Documentation" ]
+    },
+    {
+        "from": "mar. 2020",
+        "to": "okt. 2024",
+        "company": "Keystone Education Group",
+        "title": "Tech Lead",
+        "description": "Som Tech Lead jobbade Henrik med fokus på frontendarkitektur och användargränssnitt över samtliga företagets plattformar. Arbetet rörde flera teknikplatformar som React, Angular, Next.js och Tailwind. Ett centralt design system med tillhörande komponentbibliotek tog fram med Web Components för att fungera i samtliga platformar.\n\nEn stor del av arbetet bestod i att jobba med olika team kring prestanda, arkitektur och tillgänglighet, i sammarbete med UX/CX team",
+        "tags": [ "Databaser", "JavaScript", "Mentor", "Linux", "Projekt Management", "Agile Methods", "ASP.NET", "PHP", "Java", "Kanban", "CSS", "SaaS", "Git", "REST", "C#", "Microsoft SQL Server", "TeamCity", "Amazon EC2", "Entity Framework", "AWS", "Octopus Deploy", "NUnit", "Node.js", "SASS", "Moq","Django", "RabbitMQ", "Unit testing", "Integrationsarkitektur", "Domän Driven Design", "Docker", "DevOps", "Microservices", "Express.js", "Code review", "Applikationsarkitektur", "Ledarskap", "Rekrytering", "WCF", "OAuth", "System Design", "TypeScript", "API", "Spring Boot", "Elasticsearch", "ClickView", "JIRA", "Assembla", "REST API", "NoSQL", "IAM", "Stakeholder Management", "SOLID", "SQS", "IT Arkitektur", "Amazon DynamoDB", "Infrastructure as Code", "Cloudflare", "SAML", "WCAG", "AWS Lambda", "Tjänstebaserad arkitektur", "Kubernetes", "GraphQL", "Google Cloud", "PostgreSQL", "HubSpot", "Python", "Asana", "AWS CloudFront", "OVH cloud", "Autofixture", "Zapier", "React.js", "AWS ECS", "Material UI", "Tailwind CSS", "Headless CMS", "Klarna API", "Vue.js", "Eventbaserad arkitektur", "NextJS", "Firebase Cloud Firestore", "Miro", "GitHub Actions", "AWS CDK", "AWS Batch", "Vercel", "Python", "FastAPI", "JestJS", "ClickUp", "Scrum", "MaterialUI", "AWS SNS/SQS", "Sanity CMS", "Google BigQuery", "iDesign Project Design", "AWS ECS (Fargate,", "Microfrontend", "Architecture", "Mentoring", "Carbon Design System" ]
+    },
+    {
+        "from": "sep. 2018",
+        "to": "mar. 2020",
+        "company": "Keystone Education Group",
+        "title": "Lead Developer",
+        "description": "Henrik ansvarade för utveckling och vidareutveckling av frontendlösningar i Student Recruitment System, inklusive moderna gränssnitt i Angular, TypeScript och JavaScript. Han satte standarder för komponentstruktur, användarvänlighet och prestanda i både nya och befintliga applikationer.",
+        "tags": [ "JavaScript", "Project Management", "ASP.NET", "Kanban", "Git", "C#", "Microsoft SQL Server", "TeamCity", "Entity Framework", "Amazon Web Services", "Continuous Integration", "AngularJS", "Node.js", "Redis", "RabbitMQ", "Integration architechture", "Docker", "Git-Flow", "Amazon S3", "Express.js", "Code review", "Leadership", "Recruitment", "Dependency Injection", "TypeScript", "IT Arkitektur", "Angular", "WCAG", "AWS Lambda", "PostgreSQL", "React.js", "Material UI", "Docker", "Continous Deployment" ]
+    },
+    {
+        "from": "nov. 2015",
+        "to": "sep. 2018",
+        "company": "Keystone Education Group",
+        "title": "Fullstack utvecklare",
+        "description": "Henrik arbetade med frontenden för SRS-plattformen och skapade användarvänliga gränssnitt med C# / .NET, JavaScript och AngularJS. Han fokuserade på att förbättra det visuella flödet, responsiviteten och den övergripande användarupplevelsen i applikationen.",
+        "tags": [ "JavaScript", "ASP.NET", "SaaS", "Git", "C#", "AWS", "Continuous Integration", "AngularJS", "Redis", "TypeScript", "WCAG", "Angular", "PostgreSQL" ]
+    },
+    {
+        "from": "jan. 2014",
+        "to": "nov. 2015",
+        "company": "IDSS AB",
+        "title": "Fullstack utvecklare",
+        "description": "Henrik bidrog med frontendutveckling i iServ-plattformen och utvecklade användargränssnitt för visualisering av telekomdata. Han byggde webbgränssnitt som möjliggjorde enkel navigation i instrumentpaneler och rapporter.",
+        "tags": [ "WPF", "Oracle", "Data Warehouse,", "ETL", "JavaScript", "Linux", ".NET MVC/Webforms", "Business Intelligence", "Subversion", "Java", "C#", "Android", "C", "Big Data", "SVN Tortoise", "WinForms", "DevExpress", "Oracle", ".NET", "Big Data Management", "C++", "XML", "Fault & Fraud Detection" ]
+    },
+    {
+        "from": "2013",
+        "to": "2014",
+        "company": "Tieto AB",
+        "title": "Teknisk Specialist Infrastruktur",
+        "description": "Henrik jobbade med att effektivisera kundernas användarupplevelser genom automation och skriptning som förbättrade klientmiljöernas gränssnitt och installationer. Han hanterade även konfigurationer som påverkade arbetsytor och klientapplikationer.",
+        "tags": [ "C#", "C++", "Active Directory", "Infrastructure", "SCCM", "MSI", "JIRA", "DNS", "Networking" ]
+    },
+    {
+        "from": "2010",
+        "to": "2013",
+        "company": "Ericsson AB",
+        "title": "Teknisk Specialist Infrastruktur & Support",
+        "description": "Henrik arbetade med att förbättra användarens upplevelse av IT-miljön genom skript och verktyg som förenklade klienternas gränssnitt och supportflöden. Han fokuserade på att skapa bättre verktyg för support i Windows-miljöer och att förenkla komplexa lösningar för slutanvändaren.",
+        "tags": [ "Windbg", "Sysinternals", "Scripting", "C#", "C++", "vPro", "Remote support", "VBA", "ITIL", "Incident management", "Change management", "GPO", "Windows Server" ]
+    },
+    {
+        "from": "2008",
+        "to": "2010",
+        "company": "Ericsson AB",
+        "title": "Service Desk Trainer",
+        "description": "Henrik ansvarade för att utbilda servicedesk-personal i effektiv kommunikation och verktygsanvändning, vilket bidrog till bättre användarupplevelse för Ericsson-kunderna. Han arbetade med att göra processer lättare att förstå och använda i dagligt supportarbete.",
+        "tags": [ "Trainer", "Teaching", "Mentoring", "Process development", "ITIL", "Complaint process", "Quality assurence" ]
+    },
+    {
+        "from": "2007",
+        "to": "2008",
+        "company": "Ericsson AB",
+        "title": "Service Desk agent",
+        "description": "Henrik gav support och vägledning med fokus på att lösa användarnas IT-problem snabbt och tydligt. Han förbättrade den dagliga användarupplevelsen genom att leverera tydliga instruktioner och skapa förtroende i kundkontakten.",
+        "tags": [ "Remote support", "Telecom", "Windows" ]
+    }
+]
